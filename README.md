@@ -1,0 +1,2 @@
+# covidinfo
+Docs for covidinfo
